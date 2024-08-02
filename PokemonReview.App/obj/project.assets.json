@@ -4592,11 +4592,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vieth\\OneDrive\\Tài liệu\\Pokemonreviewapp\\PokemonReview-API\\PokemonReviewApp.csproj",
+      "projectUniqueName": "C:\\Users\\vieth\\OneDrive\\Tài liệu\\Pokemonreviewapp\\PokemonReview.App\\PokemonReviewApp.csproj",
       "projectName": "PokemonReviewApp",
-      "projectPath": "C:\\Users\\vieth\\OneDrive\\Tài liệu\\Pokemonreviewapp\\PokemonReview-API\\PokemonReviewApp.csproj",
+      "projectPath": "C:\\Users\\vieth\\OneDrive\\Tài liệu\\Pokemonreviewapp\\PokemonReview.App\\PokemonReviewApp.csproj",
       "packagesPath": "C:\\Users\\vieth\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vieth\\OneDrive\\Tài liệu\\Pokemonreviewapp\\PokemonReview-API\\obj\\",
+      "outputPath": "C:\\Users\\vieth\\OneDrive\\Tài liệu\\Pokemonreviewapp\\PokemonReview.App\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vieth\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "daoZxReWJ6o=",
+  "dgSpecHash": "4bn+wIOPC8I=",
   "success": true,
-  "projectFilePath": "C:\\Users\\vieth\\OneDrive\\Tài liệu\\Pokemonreviewapp\\PokemonReview-API\\PokemonReviewApp.csproj",
+  "projectFilePath": "C:\\Users\\vieth\\OneDrive\\Tài liệu\\Pokemonreviewapp\\PokemonReview.App\\PokemonReviewApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vieth\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\vieth\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
